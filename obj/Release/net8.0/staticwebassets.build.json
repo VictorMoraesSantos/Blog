@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "7IeQyqH91kKEP/yvLpFb7KiF0rVFyFPSzEy9pwSBaw4=",
+  "Source": "Blog",
+  "BasePath": "_content/Blog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog/wwwroot",
+      "Source": "Blog",
+      "ContentRoot": "/home/victormoraes/Área de Trabalho/Blog/wwwroot/",
+      "BasePath": "_content/Blog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/victormoraes/Área de Trabalho/Blog/wwwroot/images/67be79b0-c265-45c9-86d5-a0fc6614fe55.jpg",
+      "SourceId": "Blog",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/victormoraes/Área de Trabalho/Blog/wwwroot/",
+      "BasePath": "_content/Blog",
+      "RelativePath": "images/67be79b0-c265-45c9-86d5-a0fc6614fe55.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/67be79b0-c265-45c9-86d5-a0fc6614fe55.jpg"
+    }
+  ]
+}
