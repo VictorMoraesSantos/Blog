@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/victormoraes/Área de Trabalho/Blog/Blog.csproj": {}
+    "/home/victormoraes/Área de Trabalho/Projetos/Blog/Blog.csproj": {}
   },
   "projects": {
-    "/home/victormoraes/Área de Trabalho/Blog/Blog.csproj": {
+    "/home/victormoraes/Área de Trabalho/Projetos/Blog/Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/victormoraes/Área de Trabalho/Blog/Blog.csproj",
+        "projectUniqueName": "/home/victormoraes/Área de Trabalho/Projetos/Blog/Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "/home/victormoraes/Área de Trabalho/Blog/Blog.csproj",
+        "projectPath": "/home/victormoraes/Área de Trabalho/Projetos/Blog/Blog.csproj",
         "packagesPath": "/home/victormoraes/.nuget/packages/",
-        "outputPath": "/home/victormoraes/Área de Trabalho/Blog/obj/",
+        "outputPath": "/home/victormoraes/Área de Trabalho/Projetos/Blog/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/victormoraes/.nuget/NuGet/NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -84,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/victormoraes/.dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/victormoraes/.dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
